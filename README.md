@@ -1,7 +1,26 @@
-# GROUP15
-
 # Group 15 Developers Profiles
 
+> Welcome to the **Group 15 Portfolio Project**!   
+> This repository hosts the individual portfolio projects of our group members. 
+
+Each member has their own folder within the repository, containing the code and resources for their personal portfolio.
+
+## Getting Started
+
+To get started, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone [https://github.com/your-org/group-portfolio-project.git](https://github.com/your-org/group-portfolio-project.git)
+   cd group-portfolio-project
+
+2. Navigate to your personal folder and start working on your portfolio.
+3. Follow the Contribution Guidelines to add your changes.
+
+## Repository Structure
+
+Each member's portfolio is organized into a separate folder:
 [HOW TO CONTRIBUTE](/contributions.md)
 
 # Developer Profiles
