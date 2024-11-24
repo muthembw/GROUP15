@@ -14,7 +14,7 @@ Each member's portfolio is organized into a separate folder:
 
 | No  | Name                | Profile Link                            |
 | --- | ------------------- | --------------------------------------- |
-| 1   | Kelvin Kitonyo      | [Profile](profiles/Kelvin-Kitonyo)      |
+| 1   | Kelvin Kitonyo      | [Profile](profiles/kelvin-kitonyo)      |
 | 2   | Vallarie Wakhula    | [Profile](profiles/Vallarie-Wakhula)    |
 | 3   | Bridget Masila      | [Profile](profiles/Bridget-Masila)      |
 | 4   | Ian Nganga          | [Profile](profiles/Ian-Nganga)          |
@@ -25,4 +25,4 @@ Each member's portfolio is organized into a separate folder:
 | 9   | Caleb Onyango       | [Profile](profiles/Caleb-Onyango)       |
 | 10  | Vincent Kiplangat   | [Profile](profiles/Vincent-Kiplangat)   |
 | 11  | Arnold Ochieng      | [Profile](profiles/Arnold-Ochieng)      |
-| 12  | Glen Sikuku         | [Profile](profiles/Glen-Sikuku)         |
+| 12  | Glen Sikuku         | [Profile](profiles/⁠Glen-Sikuku)         |
