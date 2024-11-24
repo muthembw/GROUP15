@@ -14,7 +14,7 @@ Each member's portfolio is organized into a separate folder:
 
 | No  | Name                | Profile Link                            |
 | --- | ------------------- | --------------------------------------- |
-| 1   | Kelvin Kitonyo      | [Profile](profiles/Kelvin_Kitonyo)      |
+| 1   | Kelvin Kitonyo      | [Profile](profiles/Kelvin-Kitonyo)      |
 | 2   | Vallarie Wakhula    | [Profile](profiles/Vallarie-Wakhula)    |
 | 3   | Bridget Masila      | [Profile](profiles/Bridget-Masila)      |
 | 4   | Ian Nganga          | [Profile](profiles/Ian-Nganga)          |
